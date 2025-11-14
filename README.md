@@ -1,2 +1,2 @@
-# gen-ai-rag
-RAG - all
+# Retrieval Augmented Generation (RAG)
+Coming Soon...
