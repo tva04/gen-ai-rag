@@ -1,3 +1,11 @@
+# RAG Architecture
+> [!WARNING]
+> Draft version
+
+![RAG Architecture.](https://github.com/tva04/gen-ai-rag/blob/main/RAG_Architecture.jpg)
+
+
+
 # Retrieval Augmented Generation (RAG)
 
 | Feature | Details |
